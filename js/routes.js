@@ -6,5 +6,5 @@ page('/products', () => app.showOnly('.products-page'));
 page('/about', () => app.showOnly('.about-page'));
 page('/testimonials', () => app.showOnly('.testimonials-page'));
 page('/contact', () => app.showOnly('.contact-page'));
-
+page('*', () => app.showOnly('.not-found'));
 page();

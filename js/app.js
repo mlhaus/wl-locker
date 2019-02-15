@@ -3,9 +3,9 @@ var app = app || {};
 
 (function(module) {
 
-  module.showOnly = (selector) => {
-    $('.main-section').hide();
-    $(selector).show();
-  };
+  // module.showOnly = (selector) => {
+  //   $('.main-section').hide();
+  //   $(selector).show();
+  // };
 
 })(app);
