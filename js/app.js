@@ -8,4 +8,7 @@ var app = app || {};
   //   $(selector).show();
   // };
 
+  let currentYear = (new Date()).getFullYear();
+  $('#copyright-year').text(currentYear);
+
 })(app);

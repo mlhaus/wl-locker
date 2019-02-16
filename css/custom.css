@@ -1,0 +1,40 @@
+#Top_bar .responsive-menu-toggle {
+  background: #790315;
+}
+
+#Side_slide {
+  background-color: #790315;
+}
+
+footer#Footer {
+  background: #0a0a0a;
+}
+
+footer#Footer p, footer#Footer h5, footer#Footer h4, footer#Footer h3, footer#Footer a, footer#Footer li, .copyright {
+  color: #fafafa;
+}
+
+footer#Footer h3 {
+  margin: 2.5em 0 1em;
+}
+
+.copyright {
+  text-align: center;
+  padding-bottom: 1em;
+}
+
+footer#Footer img {
+  max-width: 100%;
+}
+
+.fb-page, .fb-page:before, .fb-page:after {
+
+}
+
+.fb-page:before, .fb-page:after {
+
+}
+
+.fb-page:after {
+
+}
